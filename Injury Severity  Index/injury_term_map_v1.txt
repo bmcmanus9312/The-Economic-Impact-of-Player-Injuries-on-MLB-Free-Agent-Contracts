@@ -1,0 +1,164 @@
+inj_norm_v6	anatomical_group	severity_tier	surgery_flag	structural_flag
+Abdominal discomfort	Abdominal	2.0	0	1
+Abdominal surgery	Abdominal	3.0	1	1
+Achiilles tendon surgery	Achilles	3.0	1	1
+Achilles discomfort	Achilles	2.0	0	1
+Achilles tendon discomfort	Achilles	2.0	0	1
+Achilles tendon surgery	Achilles	3.0	1	1
+Ankle discomfort	Ankle	2.0	0	1
+Ankle surgery	Ankle	3.0	1	1
+Arm discomfort	Arm	2.0	0	1
+Arm surgery	Arm	3.0	1	1
+Bliser (general)	Miscellaneous	0.0	0	0
+COVID-19_related	Illness		0	0
+Calf discomfort	Calf	2.0	0	1
+Chest injury	Chest		0	0
+Chest surgery	Chest	3.0	1	1
+Chronic illness	Illness		0	0
+Concussion	Head		0	0
+Dislocated shoulder	Shoulder		0	0
+Elbow discomfort	Elbow	2.0	0	1
+Elbow stress reaction	Elbow		0	0
+Elbow surgery	Elbow	3.0	1	1
+Facial fracture	Face	1.0	0	1
+Facial injury	Face		0	0
+Facial surgery	Face	3.0	1	1
+Finger blister	Finger	0.0	0	0
+Finger discomfort	Finger	2.0	0	1
+Finger dislocation	Finger	1.0	0	1
+Finger nerve-related	Finger		0	0
+Finger surgery	Finger	3.0	1	1
+Flexor tendon surgery	Flexor Tendon	3.0	1	1
+Flexor tendon surgery elbow surgery	Flexor Tendon	3.0	1	1
+Foot blister	Foot	0.0	0	0
+Foot discomfort	Foot	2.0	0	1
+Foot stress reaction	Foot		0	0
+Foot surgery	Foot	3.0	1	1
+Foot tear	Foot	2.0	0	1
+Forearm discomfort	Forearm	2.0	0	1
+Forearm surgery	Forearm	3.0	1	1
+Fractured ankle	Ankle	1.0	0	1
+Fractured elbow	Elbow	1.0	0	1
+Fractured finger	Finger	1.0	0	1
+Fractured foot	Foot	1.0	0	1
+Fractured forearm	Forearm	1.0	0	1
+Fractured hand	Hand	1.0	0	1
+Fractured knee	Knee	1.0	0	1
+Fractured leg	Leg	1.0	0	1
+Fractured pelvis	Pelvis	1.0	0	1
+Fractured rib	Rib	1.0	0	1
+Fractured shin	Shin	1.0	0	1
+Fractured shoulder	Shoulder	1.0	0	1
+Fractured toe	Toe	1.0	0	1
+Fractured wrist	Wrist	1.0	0	1
+Groin discomfort	Groin	2.0	0	1
+Hand blister	Hand	0.0	0	0
+Hand discomfort	Hand	2.0	0	1
+Hand surgery	Hand	3.0	1	1
+Head injury	Head		0	0
+Headache	Head	0.0	0	0
+Hip discomfort	Hip	2.0	0	1
+Hip surgery	Hip	3.0	1	1
+Illness	Illness		0	0
+Infection	Illness		0	0
+Influenza	Illness		0	0
+Knee discomfort	Knee	2.0	0	1
+Knee structural injury	Knee	2.0	0	1
+Knee surgery	Knee	3.0	1	1
+Leg discomfort	Leg	2.0	0	1
+Leg stress fracture	Leg	2.0	0	1
+Leg stress reaction	Leg		0	0
+Leg surgery	Leg	3.0	1	1
+Lower back discomfort	Lower back	2.0	0	1
+Lower back spasms	Lower back	0.0	0	0
+Lower back stress fracture	Lower back	2.0	0	1
+Lower back stress reaction	Lower back		0	0
+Lower back surgery	Lower back	3.0	1	1
+Medical (Non-injury)	Medical (Non-injury)		0	0
+Mental health	Medical (Non-injury)		0	0
+Nasal fracture surgery	Face	3.0	1	1
+Neck discomfort	Neck	2.0	0	1
+Neck spasms	Neck	0.0	0	0
+Neck stress reaction	Neck		0	0
+Neck surgery	Neck	3.0	1	1
+Nerve-related (general)	Neurological / Nerve		0	0
+Neurological related	Neurological / Nerve		0	0
+Rib cartilage injury	Rib		0	0
+Rib discomfort	Rib	2.0	0	1
+Rib fracture	Rib	1.0	0	1
+Rib stress reaction	Rib		0	0
+Rib surgery	Rib	3.0	1	1
+Shin stress reaction	Shin		0	0
+Shoulder discomfort	Shoulder	2.0	0	1
+Shoulder inflammation (SI joint)	Shoulder		0	0
+Shoulder stress fracture	Shoulder	2.0	0	1
+Shoulder surgery	Shoulder	3.0	1	1
+Skull fracture	Head	1.0	0	1
+Spinal disc injury	Spinal disc	2.0	0	1
+Sports hernia	Hernia		0	0
+Sports hernia stress fracture		2.0	0	1
+Sports hernia surgery	Hernia	3.0	1	1
+Sprained ankle	Ankle	1.0	0	0
+Sprained elbow	Elbow	1.0	0	0
+Sprained finger	Finger	1.0	0	0
+Sprained foot	Foot	1.0	0	0
+Sprained hand	Hand	1.0	0	0
+Sprained knee	Knee	1.0	0	0
+Sprained lower back	Lower back	1.0	0	0
+Sprained neck	Neck	1.0	0	0
+Sprained rib	Rib	1.0	0	0
+Sprained shoulder	Shoulder	1.0	0	0
+Sprained shoulder (non-throwing)	Shoulder	1.0	0	0
+Sprained toe	Toe	1.0	0	0
+Sprained wrist	Wrist	1.0	0	0
+Strained Achilles tendon	Achilles	1.0	0	0
+Strained abdominal	Abdominal	1.0	0	0
+Strained ankle	Ankle	1.0	0	0
+Strained arm	Arm	1.0	0	0
+Strained calf	Calf	1.0	0	0
+Strained elbow	Elbow	1.0	0	0
+Strained finger	Finger	1.0	0	0
+Strained flexor tendon	Flexor Tendon	1.0	0	0
+Strained foot	Foot	1.0	0	0
+Strained forearm	Forearm	1.0	0	0
+Strained hand	Hand	1.0	0	0
+Strained hip	Hip	1.0	0	0
+Strained knee	Knee	1.0	0	0
+Strained leg	Leg	1.0	0	0
+Strained lower back	Lower back	1.0	0	0
+Strained lower leg	Leg	1.0	0	0
+Strained neck	Neck	1.0	0	0
+Strained rib	Rib	1.0	0	0
+Strained shoulder	Shoulder	1.0	0	0
+Strained wrist	Wrist	1.0	0	0
+Stress reaction (general)	Miscellaneous		0	0
+Tendon discomfort (general)	Miscellaneous	2.0	0	1
+Thoracic outlet syndrome	Vascular / Cardiac		0	0
+Thoracic outlet syndrome surgery	Vascular / Cardiac	3.0	1	1
+Toe blister	Toe	0.0	0	0
+Toe discomfort	Toe	2.0	0	1
+Toe stress fracture	Toe	2.0	0	1
+Toe stress reaction	Toe		0	0
+Toe surgery	Toe	3.0	1	1
+Tommy John internal brace revision surgery	Tommy John	3.0	1	1
+Tommy John internal brace surgery	Tommy John	3.0	1	1
+Tommy John surgery	Tommy John	3.0	1	1
+Tommy John surgery (non-throwing arm)	Tommy John	3.0	1	1
+Tommy John surgery revision	Tommy John	3.0	1	1
+Torn Achilles tendon	Achilles	2.0	0	1
+Torn elbow	Elbow	2.0	0	1
+Torn finger	Finger	2.0	0	1
+Torn flexor tendon	Flexor Tendon	2.0	0	1
+Torn hip	Hip	2.0	0	1
+Torn knee	Knee	2.0	0	1
+Torn leg	Leg	2.0	0	1
+Torn lower back	Lower back	2.0	0	1
+Torn rib cartilage	Rib	2.0	0	1
+Torn shoulder	Shoulder	2.0	0	1
+Torn toe	Toe	2.0	0	1
+Turf toe	Toe		0	0
+Undisclosed	Medical (Non-injury)	2.0	0	1
+Vascular cardiac related	Vascular / Cardiac		0	0
+Vascular cardiac surgery	Vascular / Cardiac	3.0	1	1
+Wrist discomfort	Wrist	2.0	0	1
+Wrist surgery	Wrist	3.0	1	1
