@@ -1,0 +1,5 @@
+variant,best_test_mae,n_combinations_tested,elapsed_minutes,best_params
+V2_ALL_FEATURES,2963854.490356021,524,30.06537673075994,"{'n_estimators': 1000, 'learning_rate': 0.05, 'max_depth': 4, 'min_child_weight': 3, 'subsample': 0.7, 'colsample_bytree': 0.8, 'reg_lambda': 1.0, 'reg_alpha': 1.0, 'gamma': 0.5}"
+V2_INTERACTIONS_ONLY,2970043.7033926705,673,30.031762778759003,"{'n_estimators': 1000, 'learning_rate': 0.05, 'max_depth': 4, 'min_child_weight': 7, 'subsample': 0.8, 'colsample_bytree': 0.7, 'reg_lambda': 2.0, 'reg_alpha': 0.5, 'gamma': 0.5}"
+BASELINE_V2_RERUN,2973341.9810890052,642,30.019322184721627,"{'n_estimators': 3000, 'learning_rate': 0.05, 'max_depth': 4, 'min_child_weight': 5, 'subsample': 0.8, 'colsample_bytree': 0.8, 'reg_lambda': 2.0, 'reg_alpha': 0.5, 'gamma': 0.5}"
+V2_INJURY_TYPES,2986796.7502408377,647,30.034580850601195,"{'n_estimators': 1000, 'learning_rate': 0.05, 'max_depth': 4, 'min_child_weight': 7, 'subsample': 0.8, 'colsample_bytree': 0.7, 'reg_lambda': 2.0, 'reg_alpha': 0.5, 'gamma': 0.5}"
